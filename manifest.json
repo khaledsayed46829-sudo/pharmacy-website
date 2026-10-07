@@ -1,0 +1,14 @@
+{
+  "name": "إليكسير | صيدلية فاخرة",
+  "short_name": "إليكسير",
+  "description": "صيدلية إلكترونية — منتجات أصلية وتوصيل خلال ٦٠ دقيقة",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#0a2119",
+  "theme_color": "#0a2119",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
